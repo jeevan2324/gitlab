@@ -1,0 +1,14 @@
+#include<stdio.h>
+#include<stdlib.>
+struct Day{
+}
+void create(struct Day*day){
+}
+void read(struct Day*calendar,int size){
+}
+void display(struct Day*calendar,int size){
+}
+void freememory(struct Day*calendar,int size){
+}
+int main(){
+}
